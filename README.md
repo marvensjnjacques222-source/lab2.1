@@ -1,4 +1,4 @@
-# Lab 1 : 
+![Screen_Recording_20251203_141137_lab_21-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1547c62c-1761-4cb8-adaf-9a7fa5c3848c)# Lab 1 : 
 
 ## Required
 - [x] Create New Project in Android Studio
@@ -7,3 +7,6 @@
 - [x] Build in logic to show the answer side when the card is tapped
 - [x] Push code to GitHub9)
 - [ ]
+
+- ![Uploading Screen_Recording_20251203_141137_lab_21-ezgif.com-video-to-gif-converter.gif…]()
+
